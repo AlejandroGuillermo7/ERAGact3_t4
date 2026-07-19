@@ -156,6 +156,7 @@ ERAGact3_t4/
 🔗 **Proyecto en el VPS:**
 - http://67.207.87.232:8086/api/camionetas
 - http://67.207.87.232:8086/api/marcas
+- Todas mi actividades funcionando
 ![Evidencia de pruebas](screenshots/result_host.png)
 ![Evidencia de pruebas](screenshots/result_post.png)
 
